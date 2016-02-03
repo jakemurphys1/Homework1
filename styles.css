@@ -1,0 +1,69 @@
+#mountain{
+  width:100%;
+  height:523px;
+  opacity: .1;
+}
+.header{
+  background-color:#336CA4;
+width:1300px;
+  margin-left: 0px;
+  padding: 0;
+}
+.header h1,h2{
+  position: absolute;
+  font-weight: lighter;
+}
+#title{
+  margin-left: 196px;
+  margin-top: 205px;
+font-family:'Oswald', sans-serif;
+color:white;
+font-size: 100px;
+position: absolute;
+font-weight: lighter;
+letter-spacing: -.5px;
+}
+.header h2{
+  margin-left: 497px;
+  margin-top: 313px;
+font-family:'open sans', sans-serif;
+font-size: 15px;
+letter-spacing: .22px;
+}
+#topleft{
+  font-size:15px;
+  margin-left:137px;
+  position: absolute;
+  margin-top:6px;
+  font-family:'open sans', sans-serif;
+}
+#topleft p{
+  margin-left:60px;
+  margin-top:17px;
+}
+#wave{
+  width:55px;
+  height: auto;
+  position: absolute;
+}
+#about{
+  margin-top:19px;
+  margin-left:990px;
+    position: absolute;
+    font-size:17px;
+    font-family:'open sans', sans-serif;
+}
+#search{
+    margin-top:19px;
+  margin-left: 1060px;
+  position: absolute;
+  font-size:17px;
+  font-family:'open sans', sans-serif;
+  width:40px;
+}
+#glass{
+  margin-left:1130px;
+  margin-top:15px;
+  position: absolute;
+  font-size:11px;
+}
